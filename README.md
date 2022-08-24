@@ -1,4 +1,5 @@
 ![bonjour](bonjour_bear_resized.jpg)
+<img src="/bonjour_bear_resized.jpg" width="30px">
 
 ### Hi! 
 

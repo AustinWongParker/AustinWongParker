@@ -7,9 +7,14 @@
 ### Hello! I'm Austin Wong-Parker.
 I'm a full-time software engineer **actively looking for remote or hybrid roles in Chicago 3-5years experience.**<br/>
 
-- 📍| Based in Chicago <br/>
+- 📍 | Based in Chicago <br/>
 - ITI @ University of Minnesota 〽️ - Twin Cities. <br/>
-- Previously developed in C, C#, C++, and Java.<br/>
+- Previously worked at: <br/>
+  1. Start-ups
+  2. Fortune 500 Companies
+    - Insurance
+    - IoT Technology
+  3. SaaS Cybersecurity & Automation 
 
 ---
 

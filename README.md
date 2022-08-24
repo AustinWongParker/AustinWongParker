@@ -1,4 +1,4 @@
-![bonjour](bonjour_bear.jpg)
+![bonjour](bonjour_bear_resized.jpg)
 
 ### Hi! 
 

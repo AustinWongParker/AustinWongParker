@@ -1,18 +1,24 @@
 <img src="/bonjour_bear_resized.jpg" width="500px" height="275px">
 
-### Hi! 
+📧 [LinkedIn](https://www.linkedin.com/in/a-w-p/) | 🎷[Personal Website](http://www.AustinWongParker.com)
 
-<!--
-**AustinWongParker/AustinWongParker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Hello, I'm Austin Wong-Parker!
+I'm a full-time software engineer **actively looking for remote or hybrid roles in Chicago.**<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍| Based in Chicago <br/>
+- ITI @ University of Minnesota 〽️ - Twin Cities. <br/>
+- Previously developed in C, C#, C++, and Java.<br/>
+
+---
+
+Primarily a Python 🐍 developer. Here are some of the frameworks / tools I've used:
+- Django / React
+- flask
+- tkinter
+- pygames
+- pytest
+- discord API
+- restful APIs
+

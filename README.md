@@ -10,11 +10,11 @@ I'm a full-time software engineer **actively looking for remote or hybrid roles 
 - 📍 | Based in Chicago <br/>
 - ITI @ University of Minnesota 〽️ - Twin Cities. <br/>
 - Previously worked at: <br/>
-  1. Start-ups
-  2. Fortune 500 Companies
-    - Insurance
-    - IoT Technology
-  3. SaaS Cybersecurity & Automation 
+  - Start-ups
+  - Fortune 500 Companies: <br/>
+    Insurance <br/>
+    IoT Technology <br/>
+  - SaaS Cybersecurity & Automation 
 
 ---
 

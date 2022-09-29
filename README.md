@@ -5,7 +5,7 @@
 ---
 
 ### Hello! I'm Austin Wong-Parker.
-I'm a full-time software engineer in Chicago.**<br/>
+I'm a full-time software engineer in Chicago.<br/>
 
 - 📍 | Based in Chicago <br/>
 - ITI @ University of Minnesota 〽️ - Twin Cities. <br/>

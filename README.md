@@ -7,7 +7,7 @@
 ### Hello! I'm Austin Wong-Parker.
 Full-time software engineer.<br/>
 
-- 📍 | Based in Chicago <br/>
+- 📍Chicago <br/>
 - ITI @ University of Minnesota 〽️ - Twin Cities. <br/>
 - Previously worked at: <br/>
   - Start-ups
@@ -19,8 +19,8 @@ Full-time software engineer.<br/>
 ---
 
 Primarily a Python 🐍 developer. Here are some of the frameworks / tools I've used:
+- Flask
 - Django / React
-- flask
 - tkinter
 - pygames
 - pytest

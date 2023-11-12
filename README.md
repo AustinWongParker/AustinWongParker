@@ -9,12 +9,14 @@ Full-time software engineer.<br/>
 
 - 📍Chicago <br/>
 - ITI @ University of Minnesota 〽️ - Twin Cities. <br/>
-- Previously worked at: <br/>
-  - Start-ups
-  - Fortune 500 Companies: <br/>
-    Insurance <br/>
-    IoT Technology <br/>
-  - SaaS Cybersecurity & Automation 
+- Industries: <br/>
+  - Sensor Manufacturing <br/>
+  - SaaS Cybersecurity & Automation <br/>
+  - Insurance <br/>
+  - IoT <br/>
+  - Education <br/>
+  - Financial 
+
 
 ---
 
@@ -23,7 +25,5 @@ Primarily a Python 🐍 developer. Here are some of the frameworks / tools I've 
 - Django / React
 - tkinter
 - pygames
-- pytest
-- discord API
 - restful APIs
 

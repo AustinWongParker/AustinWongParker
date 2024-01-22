@@ -32,9 +32,9 @@ Primarily a Python developer. Here are some of the frameworks / tools I've used:
 ---
 
 Volunteer & Leadership 💼
-- P33 StrongStart J.P Morgan Chase Co | Mentor for CS freshman @ Illnois Institute of Technology | 2023
+- P33 StrongStart J.P Morgan Chase Co | Mentor for CS freshman @ Illinois Institute of Technology | 2023
 - CodeDay | Mentor for CS students; 3 projects | 2022
 - Travelers Insurance | Mentor for summer interns; electronic signature app ReactJS | 2020
-- Hackathon Leader | Lead; remote hackathon hosted by Minority Programmers | 2020
+- Hackathon Lead | Remote hackathon hosted by Minority Programmers | 2020
 - Hennepin County (Minneapolis) | IT mentor for government employees | 2018
 - Free Geek | Computer Diagnostics | 2018

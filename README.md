@@ -31,6 +31,7 @@ Primarily a Python developer. Here are some of the frameworks / tools I've used:
 ---
 
 Volunteer & Leadership 💼
+- JPMC All Star Code | Mentor for high school students; underrepresented communities | 2024
 - P33 StrongStart J.P Morgan Chase Co | Mentor for CS freshman @ Illinois Institute of Technology | 2023
 - CodeDay | Mentor for CS students; 3 projects | 2022
 - Travelers Insurance | Mentor for summer interns; electronic signature app ReactJS | 2020

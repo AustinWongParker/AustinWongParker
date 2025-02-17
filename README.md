@@ -10,10 +10,9 @@ Full-time software engineer.<br/>
 - 📍Houston, TX / Chicago, IL / Minneapolis, MN <br/>
 - Information Technology Infrastructure @ University of Minnesota 〽️ - Twin Cities. <br/>
 - Industries: <br/>
-  - Sensor Manufacturing <br/>
+  - Sensor Manufacturing / IoT <br/>
   - SaaS Cybersecurity & Automation <br/>
   - Insurance <br/>
-  - IoT <br/>
   - Education <br/>
   - Financial 
 

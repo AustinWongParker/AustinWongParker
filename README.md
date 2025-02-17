@@ -7,7 +7,7 @@
 ### Hello! I'm Austin Wong-Parker.
 Full-time software engineer.<br/>
 
-- 📍Chicago, IL <br/>
+- 📍Houston, TX / Chicago, IL / Minneapolis, MN <br/>
 - Information Technology Infrastructure @ University of Minnesota 〽️ - Twin Cities. <br/>
 - Industries: <br/>
   - Sensor Manufacturing <br/>
